@@ -284,8 +284,8 @@ The analytical approaches, statistical methods, visualization techniques, and st
 **Darshana**  
 Business Analyst | Data Analytics Professional | Strategic Consultant
 
-📧 **Email**: [your.email@example.com](darshana.rokade2207@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](www.linkedin.com/in/darshana-rohidas-rokade)  
+📧 **Email**: [your.email@example.com](https://darshana.rokade2207@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/darshana-rohidas-rokade)  
 🌐 **Portfolio**: [yourportfolio.notion.site](https://www.notion.so/Hey-there-I-am-Darshana-2d4c8625b8f081519881d751941342fc)  
 🐙 **GitHub**: [github.com/yourusername](https://github.com/DarshanaR2207)
 
