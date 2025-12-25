@@ -281,13 +281,13 @@ The analytical approaches, statistical methods, visualization techniques, and st
 
 ## Contact & Portfolio
 
-**[Darshana]**  
+**Darshana**  
 Business Analyst | Data Analytics Professional | Strategic Consultant
 
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 **Portfolio**: [yourportfolio.notion.site](https://yourportfolio.notion.site)  
-🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+📧 **Email**: [your.email@example.com](darshana.rokade2207@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/yourprofile](www.linkedin.com/in/darshana-rohidas-rokade)  
+🌐 **Portfolio**: [yourportfolio.notion.site](https://www.notion.so/Hey-there-I-am-Darshana-2d4c8625b8f081519881d751941342fc)  
+🐙 **GitHub**: [github.com/yourusername](https://github.com/DarshanaR2207)
 
 ---
 
@@ -301,7 +301,7 @@ Business Analyst | Data Analytics Professional | Strategic Consultant
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/DarshanaR2207/support-operations-optimization/blob/main/LICENSE) file for details.
 
 ---
 
