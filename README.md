@@ -12,9 +12,6 @@
 
 This project analyzes the feasibility and business case for transitioning from a third-party support model to an in-house operations framework for a **global entertainment technology company**. The analysis covers cost modeling, operational efficiency, regional performance comparison, and strategic recommendations for a phased transition across APAC, EMEA, and Americas regions.
 
-**Industry Context**: Premium cinema technology support operations  
-**Scope**: Multi-year transformation strategy for 500 to 5,500+ screens globally  
-
 ---
 
 ## Business Problem
