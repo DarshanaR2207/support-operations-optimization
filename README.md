@@ -27,22 +27,6 @@ The organization needed to evaluate whether transitioning first-line support in-
 
 ---
 
-## My Role: Project Lead & Business Consultant
-
-### Leadership Responsibilities
-- **Led cross-functional team** of 5 analysts across European universities (Warwick, Ljubljana, Cergy Paris, Gothenburg, Dresden)
-- **Managed project deliverables** aligning with weekly objectives and stakeholder expectations
-- **Primary stakeholder liaison** with organizational mentor and executive team
-- **Synthesized team research** into cohesive strategic framework and actionable recommendations
-- **Delivered final presentation** to senior leadership with compelling business case
-
-### Technical Contributions
-- **Conducted end-to-end data analysis** of 1,200+ support cases using Python (Pandas, NumPy, SciPy)
-- **Performed statistical analysis** (ANOVA, t-tests) validating regional performance differences
-- **Created 15+ data visualizations** illustrating key insights and financial projections
-- **Designed KPI measurement framework** for transition monitoring and success metrics
-- **Built cost-benefit analysis** demonstrating 27% potential cost reduction at scale
-
 ### Team Collaboration
 *This project was completed as part of the University of Warwick TeamWork Eutopia Spring Programme 2025, in collaboration with 5 European Universities. Team members contributed regional research, AI/ML integration proposals, and knowledge base optimization strategies. As project lead, I integrated these contributions while personally conducting all statistical analysis and primary data analysis work.*
 
