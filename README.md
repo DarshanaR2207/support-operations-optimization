@@ -118,8 +118,6 @@ support-operations-optimization/
 │   ├── priority_severity_heatmap.png # Misalignment identification
 │   ├── cost_model_comparison.png     # 10-year cost projections
 │   └── [additional charts]
-├── reports/
-│   └── executive_summary.pdf         # Anonymized presentation deck
 ├── requirements.txt                   # Python dependencies
 └── generate_synthetic_data.py        # Script to create demonstration data
 ```
